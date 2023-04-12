@@ -1,0 +1,209 @@
+.audio{
+    background-color: black;
+}
+.container1{
+    background-color: black;
+}
+.xx{
+    font-size: 50px;
+}
+.bt1{
+    background-color: orange;
+    border: none;
+}
+
+
+.shop{
+    height: 27vh;
+    background-color: rgb(223, 221, 221);
+    position: relative;
+}
+.shoper{
+    height: 27vh;
+    background-color: rgb(223, 221, 221);
+    margin-left: 50px;
+    position: relative;
+}
+.ing{
+    position: absolute;
+    bottom: 85px;
+}
+.linee{
+    margin-top: 80px;
+}
+.div{
+    height: 70vh;
+    align-items: center;
+}
+
+
+.container3{
+    height: 90vh;
+    background-color: rgba(214, 123, 38, 0.881);
+}
+.sew{
+    border: 1px solid black;
+}
+.mt{
+    margin-top: 120px;
+}
+.bn{
+    background-color: black;
+}
+.card01{
+    height: 57vh;
+}
+.container4{
+   background: url(./image-speaker-zx7.jpg);
+   background-repeat: round;
+   background-size: contain;
+   height: 50vh;
+   margin-top: 30px;
+}
+.dot{
+    padding-top: 85px;
+    padding-left: 70px;
+}
+.container5{
+    height: 70vh;
+}
+.phn{
+    background-color: rgba(128, 128, 128, 0.219);
+    height: 52vh;
+    padding: 80px;
+}
+.container6{
+    height: 80vh;
+}
+.span{
+    color: rgba(214, 123, 38, 0.881);
+}
+
+.bio{
+    list-style: none;
+}
+.foot{
+    color: white;
+    text-decoration: none !important;
+}
+.foot:hover{
+    color: rgb(219, 103, 61);
+    transition: 1s;
+}
+.contain1{
+    height: 70vh;
+    background-color: black;
+    margin-top: 150px;
+}
+.boxx2{
+    margin-top: 130px;
+}
+.bolt{
+    padding-left: 95px;
+    padding-top: 95px;
+    border-top: 5px solid rgba(214, 123, 38, 0.881);
+    background-color: black;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 16px;
+}
+
+
+
+
+
+
+
+@media (max-width:576px) {
+    .headset{
+        display: none;
+    }
+    .container1{
+        height: 80vh;
+    }
+    .proud{
+        text-align: center;
+        margin-top: 70px;
+    }
+
+
+
+    .bro{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .bio{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .bio li{
+        margin-top: 15px;
+        margin-right: 40px;
+    }
+    .contain1{
+        height: 90vh;
+    }
+    .bolt{
+        margin-left: 120px;
+    }
+    .boxx{
+        width: 100%;
+        text-align: center;
+        margin-top: 100px;
+    }
+    .boxx2{
+        margin-top: 40px;
+        display: flex;
+        flex-direction: row;
+        margin-right: 95px;
+    }
+
+
+
+    .div{
+        height: 100vh;
+        align-items: center;
+        margin-top: 80px;
+    }
+    .shoper{
+        margin-left: 0px;
+        height: 23vh;
+        width: 93%;
+        border-radius: 15px;
+    }
+    .shop{
+        height: 23vh;
+        width: 93%;
+        position: relative;
+        border-radius: 15px;
+    }
+    .ing{
+        position: absolute;
+        bottom: 120px;
+    }
+    .linee{
+        margin-top: 105px;
+    }
+
+
+    .container3{
+       text-align: center;
+       height: 100vh;
+    }
+    .mt{
+        margin-top: 50px;
+    }
+
+    .container5{
+        height: 70vh;
+    }
+    .phn{
+        height: 35vh;
+    }
+    
+    .container6{
+        text-align: center;
+    }
+}
