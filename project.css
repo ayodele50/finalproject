@@ -95,7 +95,7 @@
 
 @media (max-width:576px) {
     .div{
-        height: 100vh;
+        height: 120vh;
         align-items: center;
         margin-top: 80px;
     }
@@ -149,7 +149,7 @@
         margin-right: 40px;
     }
     .contain1{
-        height: 90vh;
+        height: 120vh;
     }
     .bolt{
         margin-left: 120px;

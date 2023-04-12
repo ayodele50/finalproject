@@ -11,6 +11,9 @@
     background-color: orange;
     border: none;
 }
+.proud{
+    margin-top: 100px;
+}
 
 
 .shop{
@@ -120,7 +123,7 @@
         display: none;
     }
     .container1{
-        height: 80vh;
+        height: 100vh;
     }
     .proud{
         text-align: center;
@@ -143,7 +146,7 @@
         margin-right: 40px;
     }
     .contain1{
-        height: 90vh;
+        height: 120vh;
     }
     .bolt{
         margin-left: 120px;
@@ -163,7 +166,7 @@
 
 
     .div{
-        height: 100vh;
+        height: 120vh;
         align-items: center;
         margin-top: 80px;
     }
